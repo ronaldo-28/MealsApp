@@ -21,6 +21,6 @@ Utilizing HTML, CSS, and Javascript, this website is straightforward. The user-s
 <hr>
 
 ### Preview of the project:
-[MealApp](https://github.com/ronaldo-28/MealsApp.git)
+[MealApp](https://ronaldo-28.github.io/MealsApp/)
 
 <hr>
